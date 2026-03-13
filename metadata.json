@@ -1,0 +1,9 @@
+{
+  "name": "Noma AI",
+  "description": "Your Virtual Agronomic Advisor. Helping smallholder farmers with trusted, low-cost, and practical farming advice in local languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
